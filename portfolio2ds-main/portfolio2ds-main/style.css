@@ -49,7 +49,7 @@ body {
     align-items: center;
     text-align: center;
     height: auto;
-    gap: 40px;
+    gap: 20px;
     order: 2;
 
  }
@@ -58,4 +58,34 @@ body {
     font-size: 36px;
     font-family: 'Times New Roman', Times, serif;
     text-align: justify;
+ }
+
+ .apresentacao-conteudo-paragrafo {
+   font-size: 16px;
+   font-family: 'Times New Roman', Times, serif;
+   text-align: justify;
+ }
+
+ .apresentacao-links-conteudo {
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 380;
+   font-size: 30px;
+ }
+ 
+ .botao1 {
+   background-color: rgb(179, 224, 100);
+   color:rgb(255, 255, 255);
+   width: 500px;
+   height: 80px;
+   text-align:center;
+   border: 2px seagreen;
+   border-radius: 50px;
+   font-size: 30px;
+   padding: 3px 0;
+   text-decoration:none;
+   font-family: 'Times New Roman', Times, serif;
+   letter-spacing: 2px;
+   text-transform:uppercase;
+   position: relative;
+   overflow: hidden;
  }
