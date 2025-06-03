@@ -180,7 +180,7 @@ body {
    position: relative;
    overflow: hidden;
  }
-.botao2::before {
+.botao3::before {
    content: "";
    position: absolute;
    top:0;
